@@ -1,5 +1,7 @@
-### Hi there 👋
+### Olá! Welcome to my Github! 😄👋👋👋
 
+- 🌱 I’m currently learning more about Microservices, NET 6 & React
+- ⚡ Fun fact: i'm also an actor and musician, currently learning to be a theatre director 🎭😉
 <!--
 **marciocoelho31/marciocoelho31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciocoelho31&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciocoelho31&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
