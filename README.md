@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 🏆 Certifications</b></summary>
 <div align="left">
 <a href="https://www.credly.com/earner/earned/badge/9518ec93-5893-4cd6-b12f-09b67d8fe888">
-<img height="100" src="https://images.credly.com/size/680x680/images/12bddaac-9b71-43fd-a81e-71ebd144ee52/BADGES_FINAL_PSM-I_600.png" title="Professional Scrum Master™ I (PSM I)" alt="Professional Scrum Master™ I (PSM I)" /></code>
+<img height="100" src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" title="Professional Scrum Master™ I (PSM I)" alt="Professional Scrum Master™ I (PSM I)" /></code>
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/58cb9321-8382-494c-ae5d-5f47cc371e62">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/849efb55-942c-4b4f-a8c5-613ae75f3250">
-<img height="100" src="https://images.credly.com/size/680x680/images/dd8f3320-27e3-4d00-9504-68e69db07d25/MTA-Software_Development_Fundamentals-600x600.png" title="MTA: Software Development Fundamentals - Certified 2022" alt="MTA: Software Development Fundamentals - Certified 2022" /></code>
+<img height="100" src="https://images.credly.com/size/680x680/images/7e0d2e0d-e68a-4a87-9245-dc288c97f33b/image.png" title="MTA: Software Development Fundamentals - Certified 2022" alt="MTA: Software Development Fundamentals - Certified 2022" /></code>
 </a>
 
 </div>
