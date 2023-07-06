@@ -1,8 +1,11 @@
 ### Olá! Welcome to my Github! 😄👋👋👋
 
-- 🌱 I’m currently learning more about Microservices, NET 6 & React
-- ⚡ Fun fact: i'm also an actor and musician, currently learning to be a theatre director 🎭😉
+- 🔭 I’m currently working with Microservices, NET 6 & Event-Driven Architecture at [Avanade](https://www.avanade.com/pt-br)
+- 🌱 I’m currently learning to play drums and practicing zen buddhism meditation
+- ⚡ Fun fact: i'm also an actor and musician, and last year i directed a theatre play 🎭😉
+
 <!--
+
 **marciocoelho31/marciocoelho31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,14 +18,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciocoelho31&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marciocoelho31&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-#
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marciocoelho31&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### 🏆 Certifications</b></summary>
 <div align="left">
@@ -44,6 +46,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.credly.com/earner/earned/badge/849efb55-942c-4b4f-a8c5-613ae75f3250">
 <img height="100" src="https://images.credly.com/size/680x680/images/7e0d2e0d-e68a-4a87-9245-dc288c97f33b/image.png" title="MTA: Software Development Fundamentals - Certified 2022" alt="MTA: Software Development Fundamentals - Certified 2022" /></code>
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/fddb094c-f5c9-4a38-beac-96a140aa0da7">
+<img height="100" src="https://images.credly.com/size/680x680/images/e11a03a6-904f-4e08-9427-ab48d3885e4f/image.png" title="LFC131: Green Software for Practitioners" alt="LFC131: Green Software for Practitioners" /></code>
 </a>
 
 </div>
