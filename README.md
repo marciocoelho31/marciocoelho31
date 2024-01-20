@@ -1,8 +1,8 @@
 ### Olá! Welcome to my Github! 😄👋👋👋
 
 - 🔭 I’m currently working with Microservices, NET 6 & Event-Driven Architecture at [Avanade](https://www.avanade.com/pt-br)
-- 🌱 I’m currently learning to play drums and practicing zen buddhism meditation
-- ⚡ Fun fact: i'm also an actor and musician, and last year i directed a theatre play 🎭😉
+- 🌱 I recently learned how to play drums and I practice zen buddhism meditation on a daily basis
+- ⚡ Fun fact: I'm also an actor and musician ([checkout my songs at Spotify](https://open.spotify.com/intl-pt/artist/2Y8JH7zPAXZDn2saxrvEbf)), and in 2022 I directed a theatre play 🎭😉
 
 <!--
 
