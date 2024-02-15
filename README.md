@@ -27,23 +27,23 @@ Here are some ideas to get you started:
 -->
 
 ### 🏆 Certifications
-<div align="left">
-<a style="color: transparent;" href="https://www.credly.com/earner/earned/badge/9518ec93-5893-4cd6-b12f-09b67d8fe888">
+<div style="color: transparent;" align="left">
+<a href="https://www.credly.com/earner/earned/badge/9518ec93-5893-4cd6-b12f-09b67d8fe888">
 <img height="100" src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" title="Professional Scrum Master™ I (PSM I)" alt="Professional Scrum Master™ I (PSM I)" />
 </a>
-<a style="color: transparent;" href="https://www.credly.com/earner/earned/badge/58cb9321-8382-494c-ae5d-5f47cc371e62">
+<a href="https://www.credly.com/earner/earned/badge/58cb9321-8382-494c-ae5d-5f47cc371e62">
 <img height="100" src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="Microsoft Certified: Azure Fundamentals" alt="Microsoft Certified: Azure Fundamentals" />
 </a>
-<a style="color: transparent;" href="https://www.credly.com/earner/earned/badge/ed009fab-c07c-4255-9763-9678fb25b4d9">
+<a href="https://www.credly.com/earner/earned/badge/ed009fab-c07c-4255-9763-9678fb25b4d9">
 <img height="100" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" title="Microsoft Certified: Azure Data Fundamentals" alt="Microsoft Certified: Azure Data Fundamentals" />
 </a>
-<a style="color: transparent;" href="https://www.credly.com/earner/earned/badge/4d64970a-44fb-4e3b-91b2-5d76007356d6">
+<a href="https://www.credly.com/earner/earned/badge/4d64970a-44fb-4e3b-91b2-5d76007356d6">
 <img height="100" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" title="Microsoft Certified: Azure AI Fundamentals" alt="Microsoft Certified: Azure AI Fundamentals" />
 </a>
-<a style="color: transparent;" href="https://www.credly.com/earner/earned/badge/849efb55-942c-4b4f-a8c5-613ae75f3250">
+<a href="https://www.credly.com/earner/earned/badge/849efb55-942c-4b4f-a8c5-613ae75f3250">
 <img height="100" src="https://images.credly.com/size/680x680/images/7e0d2e0d-e68a-4a87-9245-dc288c97f33b/image.png" title="MTA: Software Development Fundamentals - Certified 2022" alt="MTA: Software Development Fundamentals - Certified 2022" />
 </a>
-<a style="color: transparent;" href="https://www.credly.com/earner/earned/badge/fddb094c-f5c9-4a38-beac-96a140aa0da7">
+<a href="https://www.credly.com/earner/earned/badge/fddb094c-f5c9-4a38-beac-96a140aa0da7">
 <img height="100" src="https://images.credly.com/size/680x680/images/e11a03a6-904f-4e08-9427-ab48d3885e4f/image.png" title="LFC131: Green Software for Practitioners" alt="LFC131: Green Software for Practitioners" />
 </a>
 </div>
