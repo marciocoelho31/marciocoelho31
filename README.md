@@ -1,7 +1,7 @@
 ### Olá! Bem vindo(a) ao meu Github! 😄👋👋👋
 
 - 🔭 No momento atuo como tech lead e trabalho com microserviços, NET 6 & arquitetura direcionada a eventos na [Avanade](https://www.avanade.com/pt-br)
-- 🤖 Estou aprendendo um pouco de robótica e brincando com C++, kit Arduino, placas ESP32 e ESP8266, e outros gadgets
+- 🤖 [Estou aprendendo um pouco de robótica](https://github.com/marciocoelho31/robotic-lasercat) e brincando com C++, kit Arduino, placas ESP32 e ESP8266, e outros gadgets
 - 🌱 Aprendi a pouco tempo a [tocar bateria](https://youtu.be/_sq9AxPqofg?si=ePZLQy73VcwcK7in) e pratico [meditação zen budista](https://www.daissen.org.br/) diariamente
 - ⚡ Curiosidade: também sou [ator profissional](https://youtu.be/n3UaAZDqJuU?si=Nwv29E6dd1MTTOpW) e músico ([confira minhas músicas no Spotify](https://open.spotify.com/intl-pt/artist/2Y8JH7zPAXZDn2saxrvEbf)), e em 2022 eu dirigi uma peça de teatro 🎭😉
 
