@@ -1,15 +1,17 @@
 ### Olá! Bem vindo(a) ao meu Github! 😄👋👋👋
 
 - 🔭 No momento atuo como tech lead e trabalho com microserviços, NET 6 & arquitetura direcionada a eventos na [Avanade](https://www.avanade.com/pt-br)
-- 🤖 [Estou aprendendo um pouco de robótica](https://github.com/marciocoelho31/robotic-lasercat) e brincando com C++, kit Arduino, placas ESP32 e ESP8266, e outros gadgets
+- 🐍 [Estou aprendendo bastante Python](https://github.com/marciocoelho31/py-insta-genai) e também alguns assuntos relacionados a arquitetura de software e [padrões de projeto](https://github.com/marciocoelho31/design-patterns-ts) 🛠️
+- 🤖 [Aprendi um pouco de robótica esse ano](https://github.com/marciocoelho31/robotic-lasercat) utilizando C++, kit Arduino, placas ESP32 e ESP8266, e outros gadgets
 - 🌱 Aprendi a pouco tempo a [tocar bateria](https://youtu.be/_sq9AxPqofg?si=ePZLQy73VcwcK7in) e pratico [meditação zen budista](https://www.daissen.org.br/) diariamente
 - ⚡ Curiosidade: também sou [ator profissional](https://youtu.be/n3UaAZDqJuU?si=Nwv29E6dd1MTTOpW) e músico ([confira minhas músicas no Spotify](https://open.spotify.com/intl-pt/artist/2Y8JH7zPAXZDn2saxrvEbf)), e em 2022 eu dirigi uma peça de teatro 🎭😉
 
 ### Olá! Welcome to my Github! 😄👋👋👋
 
-- 🔭 I’m currently working with Microservices, NET 6 & Event-Driven Architecture at [Avanade](https://www.avanade.com/pt-br)
-- 🤖 Right now i'm learning some robotics and playing with C++. Arduino kit, ESP32 and ESP8266 boards, and some other gadgets
-- 🌱 I recently learned [how to play drums](https://youtu.be/_sq9AxPqofg?si=ePZLQy73VcwcK7in) and I practice [zen buddhism meditation](https://www.daissen.org.br/) on a daily basis
+- 🔭 I currently work with Microservices, NET 6 and Event-Driven Architecture at [Avanade](https://www.avanade.com/pt-br)
+- 🐍 At the moment [I'm learning a lot about Python](https://github.com/marciocoelho31/py-insta-genai) and also some topics related to software architecture and [design patterns](https://github.com/marciocoelho31/design-patterns-ts) 🛠️
+- 🤖 This year I learned a little robotics using C++, an Arduino kit, ESP32 and ESP8266 boards and some other gadgets
+- 🌱 I recently learned [how to play the drums](https://youtu.be/_sq9AxPqofg?si=ePZLQy73VcwcK7in) and practice [Zen Buddhism meditation](https://www.daissen.org.br/) daily
 - ⚡ Fun fact: I'm also an [actor](https://youtu.be/n3UaAZDqJuU?si=Nwv29E6dd1MTTOpW) and musician ([checkout my songs at Spotify](https://open.spotify.com/intl-pt/artist/2Y8JH7zPAXZDn2saxrvEbf)), and in 2022 I directed a theatre play 🎭😉
 
 <!--
