@@ -4,7 +4,7 @@
 - 🐍 [Estou aprendendo bastante Python](https://github.com/marciocoelho31/py-insta-genai) e também alguns assuntos relacionados a arquitetura de software e [padrões de projeto](https://github.com/marciocoelho31/design-patterns-ts) 🛠️
 - 🤖 [Aprendi um pouco de robótica esse ano](https://github.com/marciocoelho31/robotic-lasercat) utilizando C++, kit Arduino, placas ESP32 e ESP8266, e outros gadgets
 - 🌱 Aprendi a pouco tempo a [tocar bateria](https://youtu.be/_sq9AxPqofg?si=ePZLQy73VcwcK7in) e pratico [meditação zen budista](https://www.daissen.org.br/) diariamente
-- ⚡ Curiosidade: também sou [ator profissional](https://youtu.be/n3UaAZDqJuU?si=Nwv29E6dd1MTTOpW) e músico ([confira minhas músicas no Spotify](https://open.spotify.com/intl-pt/artist/2Y8JH7zPAXZDn2saxrvEbf)), e em 2022 eu dirigi uma peça de teatro 🎭😉
+- ⚡ Curiosidade: também sou [ator profissional, dublador](https://youtu.be/n3UaAZDqJuU?si=Nwv29E6dd1MTTOpW) e músico ([confira minhas músicas no Spotify](https://open.spotify.com/intl-pt/artist/2Y8JH7zPAXZDn2saxrvEbf)), e em 2022 eu dirigi uma peça de teatro 🎭😉
 
 ### Olá! Welcome to my Github! 😄👋👋👋
 
